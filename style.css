@@ -348,11 +348,12 @@ body {
     }
 }
 
-@media screen and (max-width: 710px) {
+@media screen and (max-width: 775px) {
     .projects-header {
-        width: 50%;
+        width: 85%;
         font-size: 3rem;
-        margin-right: 50px;
+        margin-left: auto;
+        margin-top: 50px;
         height: 100px;
         line-height: 100px;
     }
