@@ -1,4 +1,3 @@
-# Portfolio_v1
+# Portfolio
 
-This is the first version of my portfolio for my future Web Development career. It will make use of only HTML and CSS.
-Primary reason is for completing the freecodecamp.com final challenge for the Responsive Web Design certification.
+Hey! My name is Jordan Bravo and I am a Computer Science student at Florida International University, and this is my portfolio.
